@@ -34,7 +34,7 @@
         {"title":"809zy","api":"http://cj.809zy.com/inc/zyapimac.php","datatype":"json","search":true},
     {"title":"辣椒资源","api":"http://api.11bat.com/mac10.php","datatype":"json","search":true},
         {"title":"大地","api":"https://dadiapi.com/api.php","datatype":"json","search":true},
-    {"title":"76","api":"http://m.7777688.com/inc/api.php","datatype":"json","search":true}
+    {"title":"76","api":"http://m.7777688.com/inc/api.php","datatype":"json","search":true},
             {"title":"大地/Seacms/vod","api":"https://dadiapi.com/api.php/Seacms/vod/","datatype":"json","search":true},
     {"title":"76/provide/vod/","api":"http://m.7777688.com/inc/api.php/provide/vod/","datatype":"json","search":true}
 ]
