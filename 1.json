@@ -20,6 +20,6 @@
     {"title":"新浪资源","api":"https://api.xinlangapi.com/xinlangapi.php/provide/vod/","datatype":"json","search":false},
     {"title":"神速资源","api":"https://api.sszyapi.com/api.php/provide/vod/","datatype":"json","search":false},
     
-    {"title":"花椒资源","api":"https://apihjzy.com/api.php/provide/vod/at/xml","datatype":"json","search":true},
-    {"title":"乐播资源","api":"https://lbapi9.com/api.php/provide/vod/at/xml","datatype":"json","search":true}
+    {"title":"花椒资源","api":"https://apihjzy.com/api.php/provide/vod/","datatype":"json","search":true},
+    {"title":"乐播资源","api":"https://lbapi9.com/api.php/provide/vod/","datatype":"json","search":true}
 ]
