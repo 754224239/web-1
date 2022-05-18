@@ -23,8 +23,6 @@
     {"title":"花椒资源","api":"https://apihjzy.com/api.php/provide/vod/","datatype":"json","search":true},
     {"title":"乐播资源","api":"https://lbapi9.com/api.php/provide/vod/","datatype":"json","search":true},
     
-    {"title":"苍天","http://cj.cangtiancj.com/api.php/Seacms/vod/","datatype":"json","search":true},
-    {"title":"乐播","api":"https://lbapi9.com/api.php/provide/vod/","datatype":"json","search":true},
 
     
 ]
