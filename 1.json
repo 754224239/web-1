@@ -23,13 +23,9 @@
     {"title":"花椒资源","api":"https://apihjzy.com/api.php/provide/vod/","datatype":"json","search":true},
     {"title":"乐播资源","api":"https://lbapi9.com/api.php/provide/vod/","datatype":"json","search":true},
     
-    {"title":"苍天","http://cj.cangtiancj.com/api.php/Seacms/vod/","datatype":"json","search":true},
     {"title":"乐播","api":"https://lbapi9.com/api.php/provide/vod/","datatype":"json","search":true},
-    {"title":"sy","api":"https://shayuapi.com/api.php/Seacms/vod/","datatype":"json","search":true},
-    {"title":"809zy","api":"https://lbapi9.com/api.php/provide/vod/","datatype":"json","search":true},
     {"title":"佳丽","api":"https://jialiapi.com/api.php/provide/vod/","datatype":"json","search":true},
-    {"title":"欧宝资源","api":"http://zy.266sc.cn/api.php/provide/vod/","datatype":"json","search":true},
-    {"title":"快活资源站","api":"https://www.khzyapi.com/api.php/provide/vod/","datatype":"json","search":true}
+
 
     
 ]
