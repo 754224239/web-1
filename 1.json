@@ -21,5 +21,20 @@
     {"title":"神速资源","api":"https://api.sszyapi.com/api.php/provide/vod/","datatype":"json","search":false},
     
     {"title":"花椒资源","api":"https://apihjzy.com/api.php/provide/vod/","datatype":"json","search":true},
-    {"title":"乐播资源","api":"https://lbapi9.com/api.php/provide/vod/","datatype":"json","search":true}
+    {"title":"乐播资源","api":"https://lbapi9.com/api.php/provide/vod/","datatype":"json","search":true},
+    
+            {"title":"苍天","http://cj.cangtiancj.com/api.php/Seacms/vod/","datatype":"json","search":true},
+    {"title":"乐播","api":"https://lbapi9.com/api.php/provide/vod/","datatype":"json","search":true},
+        {"title":"sy","api":"https://shayuapi.com/api.php/Seacms/vod/","datatype":"json","search":true},
+    {"title":"809zy","api":"https://lbapi9.com/api.php/provide/vod/","datatype":"json","search":true},
+        {"title":"佳丽","api":"https://jialiapi.com/api.php/provide/vod/","datatype":"json","search":true},
+    {"title":"欧宝资源","api":"http://zy.266sc.cn/api.php/provide/vod/","datatype":"json","search":true},
+        {"title":"快活资源站","api":"https://www.khzyapi.com/api.php/provide/vod/","datatype":"json","search":true},
+    {"title":"环亚资源","api":"http://wmcj8.com/inc/sapi.php","datatype":"json","search":true},
+        {"title":"809zy","api":"http://cj.809zy.com/inc/zyapimac.php","datatype":"json","search":true},
+    {"title":"辣椒资源","api":"http://api.11bat.com/mac10.php","datatype":"json","search":true},
+        {"title":"大地","api":"https://dadiapi.com/api.php","datatype":"json","search":true},
+    {"title":"76","api":"http://m.7777688.com/inc/api.php","datatype":"json","search":true}
+            {"title":"大地/Seacms/vod","api":"https://dadiapi.com/api.php/Seacms/vod/","datatype":"json","search":true},
+    {"title":"76/provide/vod/","api":"http://m.7777688.com/inc/api.php/provide/vod/","datatype":"json","search":true}
 ]
